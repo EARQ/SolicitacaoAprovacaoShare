@@ -1,0 +1,9 @@
+<module>
+  <id>QuickShare Custom</id>
+  <customizations>
+    <customization>
+        <targetPackageRoot>org.alfresco.components.quickshare</targetPackageRoot>
+        <sourcePackageRoot>earq.alfresco.components.quickshare</sourcePackageRoot>
+     </customization>
+    </customizations>
+</module>
