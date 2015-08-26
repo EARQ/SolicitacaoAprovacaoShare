@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Aprovacao Upload</shortname>
+    <description>Exibe form para upload de documento</description>
+    <url>/aprovacaoupload?sharedID={sharedID}</url>
+    <url>/service/aprovacaoupload?sharedID={sharedID}</url>
+    <authentication runas="earq_admin_aprovacao">none</authentication>
+</webscript>
