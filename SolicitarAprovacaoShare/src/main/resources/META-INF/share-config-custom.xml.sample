@@ -3,7 +3,7 @@
      - Form config
      - Aspect and Type config
 
-    Note. Any 2 configuration related to the whole Share.war webapp
+    Note. Any 1 configuration related to the whole Share.war webapp
            (i.e. not specific to this share extension) should be
             placed in the environment specific config:
              alfresco/tomcat/shared/classes/alfresco/web-extension/share-config-custom.xml file
